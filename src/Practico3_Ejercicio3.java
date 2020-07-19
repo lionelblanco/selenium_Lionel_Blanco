@@ -1,4 +1,4 @@
-//3)Método que reciba dos enteros y retorne la multiplicación de la misma. 
+//3)Método que reciba dos enteros y retorne la multiplicación de la misma.
 
 import java.util.Scanner;
 
