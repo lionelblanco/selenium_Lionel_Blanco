@@ -1,5 +1,6 @@
 //2)Método que reciba un número entero e imprima en pantalla en caso de ser mayor a 20, “Es mayor a 20”.
 // De lo contrario, imprimir “No es mayor a 20”.
+
 package Practico3_Metodos;
 
 import java.util.Scanner;
